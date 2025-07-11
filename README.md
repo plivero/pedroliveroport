@@ -30,7 +30,7 @@ Atualmente, aprofunda seus estudos em Inteligência Artificial aplicada a QA e p
 ### 🔹 [QA Practice Project](https://github.com/henriquelh1/qa)
 
 ✅ **Descrição**  
-Projeto de estudo baseado no repositório do [Henrique LH](https://github.com/henriquelh1/qa), onde pratiquei automação de testes e pipelines CI/CD.
+Projeto de estudo baseado no repositório do [Henrique](https://github.com/henriquelh1/qa), onde pratiquei automação de testes e pipelines CI/CD.
 
 ✅ **Minhas atividades**  
 - Criação de testes automatizados com Cypress (UI e API).  
